@@ -1,0 +1,13 @@
+# Build artifacts
+/build/
+/CMakeFiles/
+Makefile
+CMakeCache.txt
+*.o
+*.exe
+*.out
+
+# IDE files
+*.user
+*.suo
+.vscode/
