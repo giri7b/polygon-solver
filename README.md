@@ -9,7 +9,7 @@ This project implements a fast algorithm to select a subset of buildings and enc
 - Designed for performance (competitive programming style)
 - Simple input-output format
 
-## 📄 Input Format
+## 📄 Input Format.
 
 - First line: `N K` — Number of buildings and minimum buildings to select
 - Next N lines: `x y cost` — Coordinates and cost for each building
