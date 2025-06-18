@@ -14,7 +14,7 @@ This project implements a fast algorithm to select a subset of buildings and enc
 - First line: `N K` — Number of buildings and minimum buildings to select
 - Next N lines: `x y cost` — Coordinates and cost for each building
 
-## ▶️ How to Run
+## ▶️ How to Run :
 
 ```bash
 polygon_solver.exe input.txt
